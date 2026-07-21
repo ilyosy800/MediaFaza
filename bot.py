@@ -1,3 +1,6 @@
+aiogram==3.7.0
+aiohttp==3.9.5
+aiofiles==23.2.1
 import os
 import asyncio
 from aiogram import Bot, Dispatcher
